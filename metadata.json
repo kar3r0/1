@@ -1,0 +1,5 @@
+{
+  "name": "Social Links Card",
+  "description": "A dynamic 'link in bio' style card to display social media profiles and links, generated from a JSON configuration.",
+  "requestFramePermissions": []
+}
