@@ -9,7 +9,7 @@ export const CARD_DATA: CardData = {
   },
   "profile": {
     "picture": {
-      "url": "https://picsum.photos/seed/galaxy/200/200",
+      "url": "/1/profile.png",
       "shape": "circle",
       "borderColor": "#FFFFFF"
     },
